@@ -1,0 +1,2 @@
+benchmark/ariane133/* filter=lfs diff=lfs merge=lfs -text
+benchmark/ispd19_test10/* filter=lfs diff=lfs merge=lfs -text
